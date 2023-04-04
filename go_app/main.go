@@ -25,7 +25,7 @@ func main() {
 	fmt.Scanln(&Height)
 
 	// process
-	Area = (Base1 + Base2) /2 * Height
+	Area = (Base1 + Base2) / 2 * Height
 
 	// output
 	fmt.Println()
